@@ -1,0 +1,7 @@
+numpy==1.19.2
+six==1.15.0
+pandas
+matplotlib
+scikit-image
+kaggle
+tensorflow
