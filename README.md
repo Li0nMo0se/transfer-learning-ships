@@ -2,6 +2,8 @@
 
 Transfer learning with a convolutional neural network for ship classification. All the explanations and details of the dataset and the convolutional neural network can be found in the jupyter notebook ``main.ipynb``.
 
+The kaggle version of this notebook can be found <a href="https://www.kaggle.com/ilanguenet/iren-competition-2-louis-guo-and-ilan-guenet">here</a>.
+
 The goal is to predict the type of a ship along 13 different categories of ships.
 
 ## Table of content
